@@ -23,3 +23,8 @@ Usage Instructions
 4. Follow the prompts. It will ask you to identify which file is the 24x7 file first, then the Safari file.
 5. Once it is finished, it will report the number of matching records, then export those records to an `.xlsx` file in the `Results` folder. Copies of the files used will be stored in the `Archive` folder.
 6. The program will then ask you if you would like it to clean up the files in the `Source Files` directory. Make your selection, then press `Enter`.
+
+Getting Help
+===================
+
+If something isn't working any more, or if you're running into a strange issue, let me know ASAP.
