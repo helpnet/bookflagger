@@ -1,4 +1,4 @@
-siftarlibraryscript
+Book Flagger
 ===================
 
 A script written in order to compare two very specific XLSX files, and to export them and manage the file system.
