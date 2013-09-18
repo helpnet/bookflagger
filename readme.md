@@ -11,7 +11,7 @@ Installation Instructions
 PC: http://ninite.com/python
 Mac: http://www.python.org/ftp/python/2.7.5/python-2.7.5-macosx10.6.dmg
 The most important thing is to make sure you're using 2.7.5!!!
-2. Download this git by clicking `download as .zip` over on the right.
+2. Download this git by clicking `Download .zip` over on the right.
 3. Extract the program and save it in its own folder somewhere safe (for example, in your Documents folder or on your desktop).
 
 Usage Instructions
